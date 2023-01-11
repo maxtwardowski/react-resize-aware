@@ -1,4 +1,5 @@
 // @flow
+/** @jsx jsx */
 import * as React from 'react';
 import ResizeListener from './ResizeListener.jsx';
 

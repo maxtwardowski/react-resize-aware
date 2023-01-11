@@ -1,4 +1,5 @@
 // @flow
+/** @jsx jsx */
 import * as React from 'react';
 import useOnResize from './useOnResize';
 
