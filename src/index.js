@@ -1,2 +1,2 @@
 // @flow
-export { default } from './useResizeAware';
+export { default } from './useResizeAware.jsx';
