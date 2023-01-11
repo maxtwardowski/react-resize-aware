@@ -16,6 +16,8 @@ const style = {
   zIndex: -1,
 };
 
+jsx;
+
 // This automatically attaches to itself the resize event listener
 // and adds onResize as callback
 export default ({

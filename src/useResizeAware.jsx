@@ -8,6 +8,8 @@ const defaultReporter = (target: ?HTMLElement) => ({
   height: target != null ? target.offsetHeight : null,
 });
 
+jsx;
+
 export default function useResizeAware(
   reporter: typeof defaultReporter = defaultReporter
 ) {
