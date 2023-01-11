@@ -1,6 +1,6 @@
 // @flow
 import * as React from 'react';
-import ResizeListener from './ResizeListener';
+import ResizeListener from './ResizeListener.jsx';
 
 const defaultReporter = (target: ?HTMLElement) => ({
   width: target != null ? target.offsetWidth : null,
